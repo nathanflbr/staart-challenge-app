@@ -21,7 +21,7 @@ Os requisitos da aplicação pode ser vista [aqui](https://pricey-tarsal-1ab.not
 adicione suas credenciais do [firebase](https://firebase.google.com) no arquivo `exemple.env` depois renomeie para `.env`
 
 ```bash
-git clone https://github.com/nathanflbr/staart-challenge
+git clone https://github.com/nathanflbr/staart-challenge-app
 ```
 
 ### 📚 Faça a instalação das dependências com:
